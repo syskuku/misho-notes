@@ -1,5 +1,7 @@
 # ✿ Misho Notes
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+
 A lightweight, self-hosted Markdown notebook with a Japanese wabi-sabi aesthetic.
 
 未書 — the beauty of what remains unwritten.
